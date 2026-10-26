@@ -1,11 +1,11 @@
-# 🌱 LINGROW
+# 🌱 KIYO-ROW
 ### Small Steps, Real Growth.
 
-**LINGROW** adalah platform pembelajaran bahasa Inggris interaktif yang dirancang untuk membantu pelajar Indonesia membangun kebiasaan belajar secara konsisten, meningkatkan kemampuan komunikasi, dan mempelajari bahasa Inggris sesuai kebutuhan masing-masing.
+**KIYO-ROW** adalah platform pembelajaran bahasa Inggris interaktif yang dirancang untuk membantu pelajar Indonesia membangun kebiasaan belajar secara konsisten, meningkatkan kemampuan komunikasi, dan mempelajari bahasa Inggris sesuai kebutuhan masing-masing.
 
 Kami percaya bahwa perkembangan tidak selalu dimulai dari langkah besar, melainkan dari langkah kecil yang dilakukan secara konsisten.
 
-## 🎯 Why LINGROW?
+## 🎯 Why KIYO-ROW?
 
 Berdasarkan EF English Proficiency Index (2025), Indonesia berada pada peringkat ke-80 dari 123 negara dan wilayah.
 
@@ -39,4 +39,4 @@ Membantu pelajar beralih dari belajar hanya ketika sedang termotivasi menjadi me
 
 Made with curiosity, collaboration, and a passion for learning.
 
-© 2026 LINGROW Team.
+© 2026 KIYO-ROW Team.
